@@ -6,13 +6,6 @@
 <br/>
 
 <h1 align="left">🌟 &nbsp;Technologies & Tools I've Worked With and Learned</h1>
-  <ul>
-    <li><strong>Languages:</strong> PHP, JavaScript, HTML, CSS</li>
-    <li><strong>Frameworks/Libraries:</strong> Laravel, React, Bootstrap, Node.js</li>
-    <li><strong>Databases:</strong> MySQL, MongoDB</li>
-    <li><strong>Tools:</strong> Docker, Kubernetes, Git, Bash</li>
-    <li><strong>Other Skills:</strong> Linux, VS Code, Figma, Flutter</li>
-  </ul>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
@@ -33,6 +26,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 </p>
+  <ul>
+    <li><strong>Languages:</strong> PHP, JavaScript, HTML, CSS</li>
+    <li><strong>Frameworks/Libraries:</strong> Laravel, React, Bootstrap, Node.js</li>
+    <li><strong>Databases:</strong> MySQL, MongoDB</li>
+    <li><strong>Tools:</strong> Docker, Kubernetes, Git, Bash</li>
+    <li><strong>Other Skills:</strong> Linux, VS Code, Figma, Flutter</li>
+  </ul>
+
 <br/>
 
 <h1 align="left">
