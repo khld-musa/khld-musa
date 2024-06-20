@@ -32,7 +32,9 @@
 <div align="center" style="max-width: 800px; margin: auto; text-align: left; font-family: Arial, sans-serif;">
   <p>Hi, I'm Khalid Musa, a Senior Laravel Developer with extensive experience in various technologies. I specialize in building robust web applications and have a passion for exploring new tools and frameworks. My journey in development has equipped me with skills in front-end and back-end technologies, ensuring a seamless integration of design and functionality.</p>
 </div>
-  <h3>🌟 My Expertise:</h3>
+  <p>I'm always excited to connect with fellow developers and collaborate on innovative projects. Let's get in touch and create something amazing together!</p>
+
+<h2 align="center">🌟 &nbsp;Technologies & Tools I've Worked With and Learned</h2>
   <ul>
     <li><strong>Languages:</strong> PHP, JavaScript, HTML, CSS</li>
     <li><strong>Frameworks/Libraries:</strong> Laravel, React, Bootstrap, Node.js</li>
@@ -40,12 +42,6 @@
     <li><strong>Tools:</strong> Docker, Kubernetes, Git, Bash</li>
     <li><strong>Other Skills:</strong> Linux, VS Code, Figma, Flutter</li>
   </ul>
-
-  <p>I'm always excited to connect with fellow developers and collaborate on innovative projects. Let's get in touch and create something amazing together!</p>
-
-
-<h2 align="center">🚀 &nbsp;Technologies & Tools I've Worked With and Learned</h2>
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
