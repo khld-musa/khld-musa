@@ -31,7 +31,7 @@
 
 <div align="center" style="max-width: 800px; margin: auto; text-align: left; font-family: Arial, sans-serif;">
   <p>Hi, I'm Khalid Musa, a Senior Laravel Developer with extensive experience in various technologies. I specialize in building robust web applications and have a passion for exploring new tools and frameworks. My journey in development has equipped me with skills in front-end and back-end technologies, ensuring a seamless integration of design and functionality.</p>
-
+</div>
   <h3>🌟 My Expertise:</h3>
   <ul>
     <li><strong>Languages:</strong> PHP, JavaScript, HTML, CSS</li>
@@ -42,7 +42,7 @@
   </ul>
 
   <p>I'm always excited to connect with fellow developers and collaborate on innovative projects. Let's get in touch and create something amazing together!</p>
-</div>
+
 
 <h2 align="center">🚀 &nbsp;Technologies & Tools I've Worked With and Learned</h2>
 
