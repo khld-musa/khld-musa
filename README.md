@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=🌟!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=🌟&height=100&section=header"/>
     <p>Hi, I'm Khalid Musa, a Senior Laravel Developer with extensive experience in various technologies. I specialize in building robust web applications and have a passion for exploring new tools and frameworks. My journey in development has equipped me with skills in front-end and back-end technologies, ensuring a seamless integration of design and functionality.</p>
   <p>I'm always excited to connect with fellow developers and collaborate on innovative projects. Let's get in touch and create something amazing together!</p>
 </p>
+<br/>
 
-
-<h2 align="left">🌟 &nbsp;Technologies & Tools I've Worked With and Learned</h2>
+<h1 align="left">🌟 &nbsp;Technologies & Tools I've Worked With and Learned</h1>
   <ul>
     <li><strong>Languages:</strong> PHP, JavaScript, HTML, CSS</li>
     <li><strong>Frameworks/Libraries:</strong> Laravel, React, Bootstrap, Node.js</li>
@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 </p>
-
+<br/>
 
 <h1 align="left">
   Let's Connect and Chat! 💬
